@@ -1,1 +1,1 @@
-this is new autofarm scriot
+this is new autofarm script
